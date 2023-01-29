@@ -1,0 +1,26 @@
+{
+  "name": "team-generator-2",
+  "version": "1.0.0",
+  "description": "challenge 10",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melinamorales512/team-generator-2.git"
+  },
+  "author": "MM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melinamorales512/team-generator-2/issues"
+  },
+  "homepage": "https://github.com/melinamorales512/team-generator-2#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.4.1"
+  }
+}
